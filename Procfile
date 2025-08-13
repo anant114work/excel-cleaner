@@ -1,0 +1,1 @@
+web: gunicorn phone_cleaner.wsgi:application
